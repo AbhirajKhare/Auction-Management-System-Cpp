@@ -1,5 +1,5 @@
 # Auction-Management-System-Cpp
-Aim:To consolidate concepts of Data Structures in C++ like sets ,map ,pairs and many more.
+Aim:To consolidate concepts of Data Structures in C++ like hash maps ,sets ,pairs and many more.
 
  # Functionalities
  An Auction can be held of any item and people can bid for the items and the highest bidder wins the bid.
